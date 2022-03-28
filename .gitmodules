@@ -1,0 +1,15 @@
+[submodule "flower"]
+	path = flower
+	url = https://github.com/Gnova25/Lucia_Gin-s-animation-project.git
+[submodule "intro_slide"]
+	path = intro_slide
+	url = https://github.com/mr-chris-reed/intro_slide.git
+[submodule "pyramids"]
+	path = pyramids
+	url = https://github.com/CadeFandl/test_animation_2.git
+[submodule "star_wars"]
+	path = star_wars
+	url = https://github.com/BHef24/Star_Wars.git
+[submodule "twocats"]
+	path = twocats
+	url = https://github.com/HenryAul/Animation-Attempt-01.git
