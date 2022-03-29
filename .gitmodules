@@ -16,3 +16,12 @@
 [submodule "car_vroom_project"]
 	path = car_vroom_project
 	url = https://github.com/JadenHannon/car_vroom_project.git
+[submodule "turtle"]
+	path = turtle
+	url = https://github.com/22dreinert/CS-Animation-Project.git
+[submodule "space_cow"]
+	path = space_cow
+	url = https://github.com/Nick-Winkler25/Anamation-Project.git
+[submodule "car"]
+	path = car
+	url = https://github.com/JadenHannon/car_vroom_project.git

@@ -15,4 +15,13 @@ while :;
     cd pyramids
     python main.py
     cd ..
+    cd space_cow
+    python main.py
+    cd ..
+    cd car
+    python main.py
+    cd ..
+    cd turtle
+    python main.py
+    cd ..
   done
