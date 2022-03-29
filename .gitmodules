@@ -13,3 +13,6 @@
 [submodule "twocats"]
 	path = twocats
 	url = https://github.com/HenryAul/Animation-Attempt-01.git
+[submodule "car_vroom_project"]
+	path = car_vroom_project
+	url = https://github.com/JadenHannon/car_vroom_project.git
