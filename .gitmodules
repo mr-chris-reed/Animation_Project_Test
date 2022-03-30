@@ -25,3 +25,6 @@
 [submodule "car"]
 	path = car
 	url = https://github.com/JadenHannon/car_vroom_project.git
+[submodule "lightsaber"]
+	path = lightsaber
+	url = https://github.com/25cshook/Co_animation_proj.git
