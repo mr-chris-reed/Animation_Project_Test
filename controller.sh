@@ -30,4 +30,10 @@ while :;
     cd pee_dog
     python main.py
     cd ..
+    cd tree
+    python main.py
+    cd ..
+    cd cat
+    python main.py
+    cd ..
   done

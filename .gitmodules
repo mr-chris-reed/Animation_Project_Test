@@ -31,3 +31,9 @@
 [submodule "pee_dog"]
 	path = pee_dog
 	url = https://github.com/Simxn3/PeeingDogAndFlower.git
+[submodule "cat"]
+	path = cat
+	url = https://github.com/25eulman/moyer_animation.git
+[submodule "tree"]
+	path = tree
+	url = https://github.com/TylerPham2/Tree-Animation-Project.git
