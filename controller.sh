@@ -3,7 +3,7 @@ while :;
     cd intro_slide
     python main.py
     cd ..
-    cd twocats
+    cd twocats2
     python main.py
     cd ..
     cd flower

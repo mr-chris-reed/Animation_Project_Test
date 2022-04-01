@@ -37,3 +37,6 @@
 [submodule "tree"]
 	path = tree
 	url = https://github.com/TylerPham2/Tree-Animation-Project.git
+[submodule "twocats2"]
+	path = twocats2
+	url = https://github.com/25hyost/twocats2.git
