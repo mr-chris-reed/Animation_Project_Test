@@ -28,3 +28,6 @@
 [submodule "lightsaber"]
 	path = lightsaber
 	url = https://github.com/25cshook/Co_animation_proj.git
+[submodule "pee_dog"]
+	path = pee_dog
+	url = https://github.com/Simxn3/PeeingDogAndFlower.git

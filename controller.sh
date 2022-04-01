@@ -27,4 +27,7 @@ while :;
     cd space_cow
     python main.py
     cd ..
+    cd pee_dog
+    python main.py
+    cd ..
   done
